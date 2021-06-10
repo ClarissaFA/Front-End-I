@@ -1,0 +1,34 @@
+body {
+    text-align: justify;
+    background-image: url(https://bit.ly/3v6hgGo);
+    background-size: 1000pt;
+    background-repeat: no-repeat;
+}
+
+/* personalizar o título */
+h1 {
+    color:rgba(23, 33, 53, 0.808);
+    font-family: fantasy;
+}
+
+/* para deixar o h2 com essa configuração de identificador,
+não coloco o h2, só coloco o identificador */ 
+
+    #green {
+        color: rgb(96, 235, 235);
+        font-style: italic;
+    }
+
+    #blue {
+        color: rgb(6, 121, 228);
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+
+/* aplicar uma mesma propriedade, uso classes */
+
+.colors {
+    color: sandybrown;
+    font-size: 24px;
+}
+
